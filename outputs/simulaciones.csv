@@ -1,0 +1,37 @@
+channel,Coste relativo,scenario,budget
+Direct Traffic,0.5,Budget Last Click,16737.59
+Referral,0.8,Budget Last Click,17730.5
+Email,0.6,Budget Last Click,16666.67
+Social Media,1.0,Budget Last Click,15673.76
+Search Ads,1.6,Budget Last Click,16312.06
+Display Ads,1.4,Budget Last Click,16879.43
+Direct Traffic,0.5,Budget Last Click (coste-ajustado),27587.55
+Referral,0.8,Budget Last Click (coste-ajustado),18265.06
+Email,0.6,Budget Last Click (coste-ajustado),22892.21
+Social Media,1.0,Budget Last Click (coste-ajustado),12917.05
+Search Ads,1.6,Budget Last Click (coste-ajustado),8401.93
+Display Ads,1.4,Budget Last Click (coste-ajustado),9936.19
+Direct Traffic,0.5,Budget Shapley,16503.55
+Referral,0.8,Budget Shapley,16905.44
+Email,0.6,Budget Shapley,16248.23
+Social Media,1.0,Budget Shapley,16894.8
+Search Ads,1.6,Budget Shapley,16260.05
+Display Ads,1.4,Budget Shapley,17187.94
+Direct Traffic,0.5,Budget Shapley (coste-ajustado),27379.58
+Referral,0.8,Budget Shapley (coste-ajustado),17528.95
+Email,0.6,Budget Shapley (coste-ajustado),22463.33
+Social Media,1.0,Budget Shapley (coste-ajustado),14014.33
+Search Ads,1.6,Budget Shapley (coste-ajustado),8429.88
+Display Ads,1.4,Budget Shapley (coste-ajustado),10183.93
+Direct Traffic,0.5,Budget Markov (Removal),0.0
+Referral,0.8,Budget Markov (Removal),80004.02
+Email,0.6,Budget Markov (Removal),0.0
+Social Media,1.0,Budget Markov (Removal),0.0
+Search Ads,1.6,Budget Markov (Removal),0.0
+Display Ads,1.4,Budget Markov (Removal),19995.98
+Direct Traffic,0.5,Budget Markov (coste-ajustado),0.0
+Referral,0.8,Budget Markov (coste-ajustado),87502.75
+Email,0.6,Budget Markov (coste-ajustado),0.0
+Social Media,1.0,Budget Markov (coste-ajustado),0.0
+Search Ads,1.6,Budget Markov (coste-ajustado),0.0
+Display Ads,1.4,Budget Markov (coste-ajustado),12497.25
